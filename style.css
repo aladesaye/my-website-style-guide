@@ -1,0 +1,109 @@
+body {
+    font-family: 'Nunito Sans',sans-serif;
+    margin: 0 10%;
+  }
+  
+  h2{
+    margin-left: 10px;
+  }
+  
+  .container {
+    border: 2px solid #0B0808;
+    margin-bottom: 30px;
+  }
+  
+  .color-container {
+    display: inline-block;
+    margin-bottom: 10px;
+    width: 30%;
+    margin: 0 .5px;
+   
+  }
+  
+  .color-panelcoolblue {
+    border: 1px solid #2d5dcc;
+    background-color: #2d5dcc;
+    color: white;
+    margin: 16px 5px;
+    text-align: center;
+    
+     
+    
+  }
+  
+  .color-panelpink {
+    border: 1px solid #d957d9;
+    background-color: #d957d9;
+    margin: 20px 0;
+    text-align: center;
+     
+  }
+  
+  .color-panelmintgreen {
+    border: 1px solid #4fe0b0;
+    background-color: #4fe0b0;
+    margin: 20px 0;
+    text-align: center;
+    
+  }
+  
+  .color-panelbeige {
+    border: 1px solid #efd9ca;
+    background-color: #efd9ca;
+    margin: 16px 5px;
+    text-align: center;
+  }
+  
+  .font-container {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  
+  .font-label-source-code-pro {
+    text-decoration: underline;
+    font-family: 'source code pro';
+    
+  }
+  
+  .font-label-nunito-sans {
+    text-decoration: underline;
+    font-family: 'nunito sans';
+    flex: right;
+   
+  } 
+  
+  .font-label-poppins {
+    text-decoration: underline;
+    font-family: poppins;
+  } 
+  
+  .bold-source-code-pro, .bold-nunito-sans, .bold-poppins {
+    font-weight: bold;
+  }
+  
+  .italic-source-code-pro, .italic-nunito-sans, .italic-poppins {
+    font-style: italic;
+  }
+  
+  .text-panel1 li {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'nunito sans'
+  }
+  
+  .text-panel2 li {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: poppins;
+  }
+  
+  .text-panel3 li {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: poppins;
+  }
+  
+  .text-panel1 h1, .text-panel2 h2, .text-panel3 p {
+    margin: 0 10px;
+  }
+  
